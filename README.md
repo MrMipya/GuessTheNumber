@@ -1,6 +1,6 @@
 # Guess the Number App
 
-![Guess the Number App](app_screenshot.png)
+![Guess the Number App]()
 
 Welcome to the "Guess the Number" app! This is a simple web-based game built using HTML, CSS, and JavaScript where players try to guess a randomly generated number within a specific range.
 
