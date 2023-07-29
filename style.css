@@ -1,0 +1,99 @@
+/* Global Styles */
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,500;0,700;1,500;1,700&display=swap");
+
+body {
+  font-family: Raleway;
+  background-color: #f2f2f2;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Game Container */
+
+.container {
+  text-align: center;
+  padding: 30px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.container h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.container p {
+  font-size: 16px;
+  color: #555;
+}
+
+/* Input and Button Styles */
+
+input[type="number"] {
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button.checkButton {
+  font-family: Raleway;
+  background-color: #4caf50;
+  color: #fff;
+}
+
+button.checkButton:hover {
+  background-color: #45a049;
+}
+
+button.playAgainButton {
+  background-color: #2196f3;
+  color: #fff;
+}
+
+button.playAgainButton:hover {
+  background-color: #1e87db;
+}
+
+button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* Result Styles */
+
+.result {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #333;
+}
+
+.attempts {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #777;
+}
+
+/* Media Query for Smaller Screens */
+
+@media screen and (max-width: 480px) {
+  .container {
+    width: 90%;
+  }
+}
