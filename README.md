@@ -1,6 +1,6 @@
 # Guess the Number App
 
-![Guess the Number App](https://previews.dropbox.com/p/thumb/AB9iL_GCO_T--AcGFBbFhzCZH-bIow9VzxAGuzgqMDb-9bb_18ZAiAZDr7I8gusbufOsP-I-x2WSHJoYJlTrL9YPFRNmFV72F5-hu2xQA2t8sYdb7SmKroxrIX3ymxunpHl8JBN_0SiRT5nOZr4rdjw6LZiKuAr05Q9itrCM5ISY-zpH1wFjbsa6qJlSkh5rMy0WHa3qQxX5m2S4Xk2WMOXxeT9lJj0xfdTRdOFx6arxbMQOQA6McbSsxOkT4ugI8n3KPkwEneQzbiAVrcH9-kPigrrtoPU3D3tXy43ki-P051xy9U1-N00fanw9Ah6e2XcO3kZywuN4FjVDsZ3Uzusz/p.png)
+![Screenshot 2023-07-29 220910](https://github.com/MrMipya/GuessTheNumber/assets/134919287/f304d9e1-5a59-4cb9-bc19-563d233bcc4a)
 
 Welcome to the "Guess the Number" app! This is a simple web-based game built using HTML, CSS, and JavaScript where players try to guess a randomly generated number within a specific range.
 
