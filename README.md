@@ -16,10 +16,6 @@ Welcome to the "Guess the Number" app! This is a simple web-based game built usi
 8. Keep guessing until you find the correct number.
 9. The app will keep track of the number of attempts you make to find the correct number.
 
-## Preview
-
-![Guess the Number App Preview](app_preview.gif)
-
 ## Technologies Used
 
 - HTML
